@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "replace": {
+        "tractorcow/testpkg": "*"
+    }
 }

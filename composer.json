@@ -1,0 +1,13 @@
+{
+    "name": "tractorcow/testpkg",
+    "description": "test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Damian Mooyman",
+            "email": "damian@silverstripe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
